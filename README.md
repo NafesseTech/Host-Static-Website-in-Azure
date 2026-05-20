@@ -7,6 +7,7 @@ Host a fully serverless static website in Microsoft Azure using Azure Blob Stora
 
 
 
+
 ## 1. Objective
 
 In this lab, you will deploy your first public-facing resource in Azure. Instead of building a complex server to host a simple website, you will use Azure Blob Storage. This introduces you to the concept of PaaS (Platform as a Service) and Serverless hosting, where you focus on the content, and Azure handles the infrastructure.
