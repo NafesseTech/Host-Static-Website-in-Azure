@@ -2,7 +2,8 @@
 Host a fully serverless static website in Microsoft Azure using Azure Blob Storage Static Website Hosting. This lab demonstrates how to deploy a public-facing website without managing virtual machines or web servers.
 
 
-[Full Loom video walkthrough below]
+
+[ FULL LOOM VIDEO WALKTHROUGH BELOW ]
 
 https://www.loom.com/share/2bc9001f05d649db97221b74b082953d
 
