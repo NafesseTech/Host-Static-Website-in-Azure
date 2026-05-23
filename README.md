@@ -2,6 +2,10 @@
 Host a fully serverless static website in Microsoft Azure using Azure Blob Storage Static Website Hosting. This lab demonstrates how to deploy a public-facing website without managing virtual machines or web servers.
 
 
+[Full Loom video walkthrough below]
+
+https://www.loom.com/share/2bc9001f05d649db97221b74b082953d
+
 
 # Lab 01: Hosting Your First Static Website in Azure
 
@@ -23,7 +27,6 @@ In this lab, you will deploy your first public-facing resource in Azure. Instead
 ## 3. Prerequisites
 
 - [ ] Active Azure Subscription (Free Tier is fine).
-- [ ] Completed Week 1 Video Modules.
 - [ ] A basic text editor (Notepad, TextEdit, or VS Code).
 
 
@@ -142,7 +145,7 @@ Use these names to ensure consistency.
 - **Fix:** Did you upload the file to the `$web` container? If you uploaded it to a different container, it won't work.
 
 **Issue:** "Storage account name is already taken."
-- **Fix:** Storage names must be unique across all of Azure, not just your account. Add some random numbers to the end of your name (e.g., `stlab01jhante99`).
+- **Fix:** Storage names must be unique across all of Azure, not just your account. Add some random numbers to the end of your name (e.g., `stlab01nafesse99`).
 
 ---
 
